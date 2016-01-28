@@ -1,6 +1,6 @@
 public class GITPoc {
 	
 	public GITPoc(){
-		system.debug('Prin OK');
+		system.debug('Prin OK!!!');
 	}
 }
